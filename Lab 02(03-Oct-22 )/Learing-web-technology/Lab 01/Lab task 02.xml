@@ -1,0 +1,35 @@
+<informations>
+
+<informations SL.NO="1">
+<Serial_num>23 </Serial_num>
+<Name> John Carter </Name>
+<Admission_date date="1">
+<Date>25</Date>
+<Month>12</Month>
+<Year>2015</Year>
+</Admission_date>
+</informations>
+
+<informations SL.NO="2">
+<Serial_num>29</Serial_num>
+<Name> Bob Marshal </Name>
+<Admission_date date="2">
+<Date>13</Date>
+<Month>01</Month>
+<Year>1999</Year>
+</Admission_date>
+</informations>
+
+<informations SL.NO="3">
+<Serial_num>35</Serial_num>
+<Name> Clark Kent </Name>
+<Admission_date date="3">
+<Date>17</Date>
+<Month>06</Month>
+<Year>2005</Year>
+</Admission_date>
+</informations>
+
+
+
+</informations>

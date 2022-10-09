@@ -1,0 +1,30 @@
+<information>
+
+<info serial_id="1">
+<s_id>23 </s_id>
+<name> John Carter </name>
+<admission_day> 25</admission_day>
+<admission_month> 12 </admission_month>
+<admission_year> 2015</admission_year>
+</info>
+
+<info serial_id="2">
+<s_id>29</s_id>
+<name> Bob Marshal </name>
+<admission_day> 13</admission_day>
+<admission_month> 1 </admission_month>
+<admission_year> 2019</admission_year>
+
+</info>
+
+<info serial_id="3">
+<s_id>35</s_id>
+<name> Clark Kent </name>
+<admission_day> 17</admission_day>
+<admission_month> 06 </admission_month>
+<admission_year> 2005</admission_year>
+</info>
+
+
+
+</information>
